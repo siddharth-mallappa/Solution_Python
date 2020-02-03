@@ -1,0 +1,18 @@
+'''
+-----------------------------
+Mysore --> Somnathpur   cost: 3
+ 
+Somnathpur --> Nagarhole   cost: 27
+ 
+Nagarhole --> Bandipur   cost: 9
+ 
+Bandipur --> Bylakuppe   cost: 60
+ 
+Bylakuppe --> Chennapatna   cost: 40
+ 
+Chennapatna --> Mandya   cost: 22
+ 
+Mandya --> Nanjangud   cost: 12
+-----------------------------
+ 
+The total minimum cost path 173'''
